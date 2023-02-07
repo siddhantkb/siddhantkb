@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://scitechdaily.com/images/Brain-Patterns-Illustration.gif)]
+![MasterHead](https://scitechdaily.com/images/Brain-Patterns-Illustration.gif)
 <h1 align="center">Hi 👋, I'm Siddhant k. Bhagat</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
