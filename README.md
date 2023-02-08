@@ -36,7 +36,7 @@ I have technical experience and interest in -
 
 - 📖 <a href="https://adamharley.com/nn_vis/cnn/3d.html" target="_blank" rel="noreferrer">Visualize how CNN works</a>
 - 📖 <a href="https://cs.stanford.edu/people/karpathy/convnetjs/" target="_blank" rel="noreferrer">ConvNetJs</a>
-- 📖 <a href="https://setosa.io/ev/image-kernels/" target="_blank" rel="noreferrer">iamage kernels pplayground</a>
+- 📖 <a href="https://setosa.io/ev/image-kernels/" target="_blank" rel="noreferrer">image kernels playground</a>
 
 - 📖 <a href="https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html" target="_blank" rel="noreferrer">Comparison of the effect of different scalers on data with outliers</a>
 - 📖 <a href="https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02" target="_blank" rel="noreferrer">When to use MinMaxScaler, RobustScaler, StandardScaler, and Normalizer
