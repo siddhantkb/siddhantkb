@@ -41,7 +41,7 @@ I have technical experience and interest in -
 - 📖 <a href="https://scikit-learn.org/stable/auto_examples/preprocessing/plot_all_scaling.html" target="_blank" rel="noreferrer">Comparison of the effect of different scalers on data with outliers</a>
 - 📖 <a href="https://towardsdatascience.com/scale-standardize-or-normalize-with-scikit-learn-6ccc7d176a02" target="_blank" rel="noreferrer">When to use MinMaxScaler, RobustScaler, StandardScaler, and Normalizer
 </a>
-
+- 📖 <a href="https://www.analyticsvidhya.com/blog/2021/10/handling-missing-value/" target="_blank" rel="noreferrer">how to handle missing values</a>
 - 📖 <a href="https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15" target="_blank" rel="noreferrer">EDA Intuition</a>
 
 
